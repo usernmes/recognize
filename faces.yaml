@@ -1,0 +1,4 @@
+train: D:/深度大作业/data/train/images
+val: D:/深度大作业/data/val/images
+nc: 7
+names: ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
